@@ -36,6 +36,9 @@ a {
 .navigation-list-item:hover {
   color: #404bbf;
 }
+.contacts {
+  font-style: normal;
+}
 .contacts-item {
   font-weight: 400;
   font-size: 16px;
